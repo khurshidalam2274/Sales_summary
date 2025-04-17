@@ -1,5 +1,5 @@
 # Sales_summary
-# Task 7 – Sales Summary (Data Analyst Internship)
+# Task – Sales Summary (Data Analyst)
 
 This project demonstrates how to:
 - Create and query an SQLite database using Python
